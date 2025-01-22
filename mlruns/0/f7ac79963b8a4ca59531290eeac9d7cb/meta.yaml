@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/KIIT/Desktop/projects/network-security/mlruns/0/f7ac79963b8a4ca59531290eeac9d7cb/artifacts
+end_time: 1737538797071
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f7ac79963b8a4ca59531290eeac9d7cb
+run_name: bald-cow-511
+run_uuid: f7ac79963b8a4ca59531290eeac9d7cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737538789913
+status: 3
+tags: []
+user_id: KIIT
