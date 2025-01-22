@@ -4,11 +4,12 @@ Anti-phishing refers to efforts to block phishing attacks. Phishing is a kind of
 
 Dataset source : https://www.kaggle.com/datasets/akashkr/phishing-website-dataset/data
 
-This dataset contains information about several website urls such as url length, shortnening service, ssl state etc. Based on these features, it must be determined whether the website domain is registered or not.
+This dataset contains information about several website urls such as **url length**, **shortnening service**, **ssl state** etc. Based on these features, it must be determined whether the website domain is registered or not.
 
 This project was done to understand the life cycle of an end to end machine learning project. The project structure is as follows:
 
-![Image](images\project_structure.png "Project Components")
+![Project Components](images/project_structure.png "Project Components")
+
 
 #### Data Ingestion Component
 - Collect and store raw data from the MongoDB Database.
